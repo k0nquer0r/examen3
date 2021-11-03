@@ -6,7 +6,7 @@ class AvatarPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Alerta'),
+        title: Text('Avatar'),
       ),
       body: CupertinoAlertDialog(
         title: const Text('Alert'),
